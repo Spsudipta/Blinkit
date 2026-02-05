@@ -121,7 +121,7 @@ Blinkit handles large volumes of product sales across multiple outlet locations 
 **Sudipta Pramanik**
 
 * 📧 Email: spsudipta999@gmail.com
-* 💼 LinkedIn:
+* 💼 LinkedIn:https://www.linkedin.com/in/sudipta-pramanik-067297328/
 * 🐙 GitHub:
 
 ---
