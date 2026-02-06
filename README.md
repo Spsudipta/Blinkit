@@ -1,7 +1,4 @@
----
-
 # 🛒 Blinkit Sales Analysis Dashboard (Power BI)
----
 
 ## 📷 Dashboard Preview
 
