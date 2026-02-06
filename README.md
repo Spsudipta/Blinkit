@@ -1,6 +1,11 @@
 ---
 
 # 🛒 Blinkit Sales Analysis Dashboard (Power BI)
+---
+
+## 📷 Dashboard Preview
+
+<img width="1361" height="773" alt="image" src="https://github.com/user-attachments/assets/24e9354d-b984-466e-9ae4-76a3bc3fb051" />
 
 ## 📌 Project Overview
 
@@ -86,15 +91,6 @@ Blinkit handles large volumes of product sales across multiple outlet locations 
 * **Excel / CSV Dataset** – Data Source
 * **Power Query** – Data Cleaning & Transformation
 * **DAX** – Calculations & Measures
-
----
----
-
-## 📷 Dashboard Preview
-
-<img width="1361" height="773" alt="image" src="https://github.com/user-attachments/assets/24e9354d-b984-466e-9ae4-76a3bc3fb051" />
-
-
 ---
 
 ## 🚀 Business Insights Generated
